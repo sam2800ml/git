@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    color: blue;
+}
+#container {
+    background-color: blanchedalmond;
+    padding: 20px;
+    border: 1px;
+    width: 70%;
+    padding: 1em;
+    margin: 0 auto;
+}
+#cabezera{
+    color:gray;
+    font-size:35px;
+    border: 5px  solid black;
+    border-radius: 50px;
+}
